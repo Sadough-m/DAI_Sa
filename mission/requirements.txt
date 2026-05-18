@@ -1,0 +1,4 @@
+kagglehub==1.0.1
+kagglesdk==0.1.23
+numpy==2.4.5
+pandas==3.0.3
